@@ -1,0 +1,11 @@
+variable "cidr" {}
+variable "cidr2" {}
+variable "cidr3" {}
+variable "cidr4" {}
+variable "cidr5" {}
+variable "allcidr" {}
+variable "redhat" {}
+variable "ubuntu" {}
+variable "az1" {}
+variable "az2" {}
+variable "keypair" {}
